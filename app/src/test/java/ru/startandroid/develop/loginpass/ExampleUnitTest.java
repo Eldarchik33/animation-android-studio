@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package ru.startandroid.develop.loginpass;
 
 import org.junit.Test;
 
