@@ -1,8 +1,3 @@
 <resources>
-    <string name="app_name">My Application</string>
-    <string name="sun">Солнце</string>
-    <string name="grass">Трава</string>
-    <string name="sky">Небо</string>
-    <string name="clock">Часы</string>
-    <string name="hour">Стрелка</string>
+    <string name="app_name">loginpass</string>
 </resources>

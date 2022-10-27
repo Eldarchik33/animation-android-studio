@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package ru.startandroid.develop.loginpass;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.myapplication", appContext.getPackageName());
+        assertEquals("ru.startandroid.develop.loginpass", appContext.getPackageName());
     }
 }
